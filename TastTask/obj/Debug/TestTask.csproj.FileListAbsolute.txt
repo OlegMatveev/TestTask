@@ -1,0 +1,12 @@
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\bin\Debug\TastTask.exe.config
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\bin\Debug\TastTask.exe
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\bin\Debug\TastTask.pdb
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\obj\Debug\TastTask.exe
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\obj\Debug\TastTask.pdb
+C:\Users\Oleg\Desktop\Playtika\TastTask\TastTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\bin\Debug\TestTask.exe.config
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\bin\Debug\TestTask.exe
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\bin\Debug\TestTask.pdb
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\obj\Debug\TestTask.exe
+C:\Users\Oleg\Desktop\Playtika\TestTask\TastTask\obj\Debug\TestTask.pdb
